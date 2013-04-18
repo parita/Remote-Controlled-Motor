@@ -27,3 +27,5 @@
 
 #gitignore
 *.gitignore
+
+*~
