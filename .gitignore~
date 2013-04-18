@@ -25,5 +25,3 @@
 *.map
 *.sym
 
-#gitignore
-*.gitignore
